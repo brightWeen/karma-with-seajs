@@ -15,8 +15,11 @@ seajs使用karma做单元测试
 
 ### 相关资源
 为什么选择karma？
+
 http://segmentfault.com/a/1190000000317146
 http://www.alloyteam.com/2015/06/qian-duan-ce-shi-hui-gu-ji-wo-men-wei-shi-me-xuan-ze-karma/
+
 karma配置入门
+
 http://shaynegui.com/karma-with-seajs/
 https://github.com/aralejs/aralejs.org/issues/291
